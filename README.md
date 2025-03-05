@@ -4,7 +4,7 @@ Minimalist calories app that allows tracking of calories and weight.
 
 The Minimalist calories app tracks calories by using different food items that you have defined, and how much you specified you ate of that food. It shows you total nutritional information, and can track your weight.
 
-![GitHub Actions Workflow Status](https://img.shields.io/github/actions/workflow/status/LodewykRoux/minimalist-calories-app/go.yml?branch=main&label=Build%20%26%20Test&color=fff)
+![GitHub Actions Workflow Status](https://img.shields.io/github/actions/workflow/status/LodewykRoux/minimalist-calories-app/dart.yml?branch=main&label=Build%20%26%20Test&color=fff)
 [![Static Badge](https://img.shields.io/badge/flutter-v3.16.3-blue?logo=flutter&logoColor=white&color=%2302569B)](https://github.com/flutter/flutter)
 [![Static Badge](https://img.shields.io/badge/dio-v5.4.3-blue?logoColor=white&color=%2302569B)]([https://pub.dev/packages/provider](https://pub.dev/packages/dio))
 [![Static Badge](https://img.shields.io/badge/provider-v6.1.2-blue?logoColor=white&color=%2302569B)](https://pub.dev/packages/provider)
