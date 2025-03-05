@@ -65,7 +65,7 @@ class ConfirmationDialogue extends StatelessWidget {
                   ),
                 ],
               ),
-            )
+            ),
           ],
         ),
       ),

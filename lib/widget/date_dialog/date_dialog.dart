@@ -2,7 +2,9 @@ import 'package:calories_app/theme/main.dart';
 import 'package:flutter/material.dart';
 
 Future<DateTime?> dateDialogBuilder(
-    BuildContext context, DateTime? initialDate) {
+  BuildContext context,
+  DateTime? initialDate,
+) {
   return showDatePicker(
     builder: (context, child) {
       return Theme(
